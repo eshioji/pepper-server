@@ -1,0 +1,1 @@
+"use strict";angular.module("pepperClientApp",[]),angular.module("pepperClientApp").controller("MainCtrl",["$scope",function(a){a.awesomeThings=["HTML5 Boilerplate","AngularJS","Karma"]}]);
